@@ -1,7 +1,7 @@
 package tollbooth_echo
 
 import (
-	"github.com/didip/tollbooth"
+	"github.com/didip/tollbooth/v7"
 	"github.com/didip/tollbooth/limiter"
 	"github.com/labstack/echo/v4"
 )
